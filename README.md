@@ -1,7 +1,7 @@
 # Data-Science-Capstone-1
 Sentiment analysis of Amazon product reviews
 ### Techniques employed:
--Exploratory data analysis
+- Exploratory data analysis
 - Text cleaning
 - spaCy
 - Scikit-learn
